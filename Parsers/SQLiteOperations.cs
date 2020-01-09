@@ -43,7 +43,13 @@ namespace Parsers
        
 
     }
+    public static void FetchRecords()
+    {
+
+    }
 }
+
+
 
 
 //using (SQLiteCommand cmd = new SQLiteCommand(query, connection))
